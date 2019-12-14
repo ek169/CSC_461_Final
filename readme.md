@@ -21,10 +21,8 @@ Conversion notes:
 
             Ethan Kulman				 Isaac Pontarelli	
 
-                               University of Rhode Island                              University of Rhode Island	
 
 
-              ethan_kulman@my.uri.edu	 	                ipontarelli@my.uri.edu
 
 **Abstract**
 
